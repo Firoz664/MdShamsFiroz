@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MdShamsFiroz/static/css/main.174f3f46.chunk.css",
+    "main.js": "/MdShamsFiroz/static/js/main.d0ad12c0.chunk.js",
+    "main.js.map": "/MdShamsFiroz/static/js/main.d0ad12c0.chunk.js.map",
+    "runtime-main.js": "/MdShamsFiroz/static/js/runtime-main.d1fd0144.js",
+    "runtime-main.js.map": "/MdShamsFiroz/static/js/runtime-main.d1fd0144.js.map",
+    "static/css/2.9026ff9f.chunk.css": "/MdShamsFiroz/static/css/2.9026ff9f.chunk.css",
+    "static/js/2.d14fe7f9.chunk.js": "/MdShamsFiroz/static/js/2.d14fe7f9.chunk.js",
+    "static/js/2.d14fe7f9.chunk.js.map": "/MdShamsFiroz/static/js/2.d14fe7f9.chunk.js.map",
+    "static/js/3.04abe5dd.chunk.js": "/MdShamsFiroz/static/js/3.04abe5dd.chunk.js",
+    "static/js/3.04abe5dd.chunk.js.map": "/MdShamsFiroz/static/js/3.04abe5dd.chunk.js.map",
+    "index.html": "/MdShamsFiroz/index.html",
+    "static/css/2.9026ff9f.chunk.css.map": "/MdShamsFiroz/static/css/2.9026ff9f.chunk.css.map",
+    "static/css/main.174f3f46.chunk.css.map": "/MdShamsFiroz/static/css/main.174f3f46.chunk.css.map",
+    "static/js/2.d14fe7f9.chunk.js.LICENSE.txt": "/MdShamsFiroz/static/js/2.d14fe7f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MdShamsFiroz/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Testimonial.css": "/MdShamsFiroz/static/media/bg-1.e7a118c3.jpg",
+    "static/media/education.svg": "/MdShamsFiroz/static/media/education.10cfa28a.svg",
+    "static/media/interests.svg": "/MdShamsFiroz/static/media/interests.809890a3.svg",
+    "static/media/lady.2c54ef6a.png": "/MdShamsFiroz/static/media/lady.2c54ef6a.png",
+    "static/media/lifestyles.png": "/MdShamsFiroz/static/media/lifestyles.4bb5c2b4.png",
+    "static/media/loc.png": "/MdShamsFiroz/static/media/loc.b0fd4aee.png",
+    "static/media/man.bd25aa38.png": "/MdShamsFiroz/static/media/man.bd25aa38.png",
+    "static/media/AboutMe.css": "/MdShamsFiroz/static/media/me.4d2172a0.jpg",
+    "static/media/mike.8af8bcf1.png": "/MdShamsFiroz/static/media/mike.8af8bcf1.png",
+    "static/media/Profile.css": "/MdShamsFiroz/static/media/profilefiroz.ce6a4690.jpg",
+    "static/media/programming-skills.svg": "/MdShamsFiroz/static/media/programming-skills.d19983a9.svg",
+    "static/media/projects.svg": "/MdShamsFiroz/static/media/projects.2b352a52.svg",
+    "static/media/work-history.svg": "/MdShamsFiroz/static/media/work-history.a566475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1fd0144.js",
+    "static/css/2.9026ff9f.chunk.css",
+    "static/js/2.d14fe7f9.chunk.js",
+    "static/css/main.174f3f46.chunk.css",
+    "static/js/main.d0ad12c0.chunk.js"
+  ]
+}
